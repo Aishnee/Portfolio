@@ -1,0 +1,34 @@
+
+          H1{
+            color:red;
+          }
+
+       .header{
+           background-color: yellow;
+           display: flex ;
+           justify-content : space-between; 
+
+       }  
+
+       .grid{
+           display : flex;
+           flex-wrap : wrap;
+           justify-content : space-evenly;
+           background-color: lightgreen;
+       }
+
+       .footer{
+           display : flex;
+           justify-content : flex-end;
+           background-color: white;
+       }
+
+       p,h2,h3{
+           text-align : center;
+       }
+
+       p{
+           color:midnightblue;
+           font-size: large;
+           font-weight: bold;
+       }
